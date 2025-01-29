@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
-
+int i = 1;
 void setup() {
   // put your setup code here, to run once:
 
